@@ -2,4 +2,4 @@
 
 ### Final project CSE458 Soft Computing
 
--   Install all required Libraies before running
+-   Install all required Libraries before running
